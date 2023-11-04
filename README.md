@@ -96,6 +96,7 @@ Additionally, from 2014 to 2015 the foreign gross increased again which showed a
 From 2015 all through 2018 the foreign gross income declined drastically.
 
 ###Coclusion & Recommendation
+
 As we can see from the above Data Analysis we have gotten the chance to analyse movies produced in the industry, income used, their ratings and the genres mostly produced.
 
 From the observation made based on the analysis done we have seen that Drama movies are the most produced movies in the movies industry with a percentage of 30.1%.
