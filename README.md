@@ -37,6 +37,7 @@ Here I was able to come with three questions that led me to my objectives which 
     What type of films are currently being produced? which led me directly to the 'Genres'
     What is the budget/income used to produce movies?
     What category/genre of movies is being produced the most in the movie industry?
+    
 ### The Data
 
 The project used three datasets to come up with the following project analysis. The data used include:
@@ -57,7 +58,9 @@ runtime_minutes
 genres
 
 ###Results
+
 ![index](https://github.com/stephaniemwai/dsc-phase-1-project/assets/143871178/cf880227-1592-43fc-8106-6066db0f49aa)
+
 From the above results on the bar graph plot created we can very well see that Drama Movies are the most produced shows in the movie industry followed by Documentaries and then comedy shows as well. We can as well see that the least produced shows with almost the same frequency is Drama Romance, Comedy Romance and Comedy Drama Romance.
 
 ![index](https://github.com/stephaniemwai/dsc-phase-1-project/assets/143871178/0c428911-17db-4e50-b55f-f42e86b10f7d)
@@ -96,6 +99,7 @@ Additionally, from 2014 to 2015 the foreign gross increased again which showed a
 From 2015 all through 2018 the foreign gross income declined drastically.
 
 ###Coclusion & Recommendation
+
 As we can see from the above Data Analysis we have gotten the chance to analyse movies produced in the industry, income used, their ratings and the genres mostly produced.
 
 From the observation made based on the analysis done we have seen that Drama movies are the most produced movies in the movies industry with a percentage of 30.1%.
